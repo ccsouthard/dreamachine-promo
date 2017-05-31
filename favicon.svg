@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="133px" height="133px" viewBox="0 0 133 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>favicon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="favicon" fill-rule="nonzero" fill="#004078">
+            <g id="Page-1">
+                <path d="M66.5,133 C103.226936,133 133,103.226936 133,66.5 C133,29.7730641 103.226936,0 66.5,0 C29.7730641,0 0,29.7730641 0,66.5 C0,103.226936 29.7730641,133 66.5,133 Z M66.664,116.219922 C39.787,116.219922 18,93.7558935 18,66.0424223 C18,39.2548988 38.368,17.434291 64.003,16 C49.157,21.4793833 38.52,36.0677001 38.52,53.255476 C38.52,75.1297022 55.714,92.8546927 76.924,92.8546927 C96.138,92.8546927 112.017,78.2911228 114.839,59.2844474 C115.127,61.500329 115.328,63.7440509 115.328,66.0424223 C115.328,93.7558935 93.541,116.219922 66.664,116.219922 L66.664,116.219922 Z" id="Oval"></path>
+            </g>
+        </g>
+    </g>
+</svg>
